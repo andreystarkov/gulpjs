@@ -1,0 +1,4 @@
+.btn {
+  color: red;
+  -webkit-filter: grayscale(50%);
+          filter: grayscale(50%); }

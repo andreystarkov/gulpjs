@@ -1,0 +1,702 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"p",
+				"position: "
+			],
+			[
+				"tra",
+				"transition	Bourbon"
+			],
+			[
+				"t",
+				"text-align: "
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"tex",
+				"text-transform: "
+			],
+			[
+				"tr",
+				"transition: "
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"top",
+				"top_text"
+			],
+			[
+				"mid",
+				"middle"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"to",
+				"toggleClass"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"toggle",
+				"toggle_mnu"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"re",
+				"relative"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 412,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/sass/style.sass",
+			"settings":
+			{
+				"buffer_size": 220,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 355.0,
+		"last_filter": "pac",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"syssass",
+				"Set Syntax: Sass"
+			],
+			[
+				"gist",
+				"Gist: Create Public Gist"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"gis",
+				"Gist: Open Gist"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"Themr: List themes"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"setjs",
+				"Set Syntax: JSON"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"setsht",
+				"Set Syntax: HTML"
+			],
+			[
+				"seth",
+				"Set Syntax: HTML"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"paka",
+				"Package Control: Remove Package"
+			],
+			[
+				"inspa",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"instal ",
+				"Package Control: Install Package"
+			],
+			[
+				"setssa",
+				"Set Syntax: Sass"
+			],
+			[
+				"setsynsa",
+				"Set Syntax: Sass"
+			],
+			[
+				"setsysa",
+				"Set Syntax: Sass"
+			],
+			[
+				"pacv",
+				"Package Control: Advanced Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/OpenServer/domains/gulpjs",
+		"/C/OpenServer/domains/gulpjs/app",
+		"/C/OpenServer/domains/gulpjs/app/css",
+		"/C/OpenServer/domains/gulpjs/app/sass"
+	],
+	"file_history":
+	[
+		"/C/OpenServer/domains/gulpjs/app/index.html",
+		"/C/dev/sublime-3dev/Data/Packages/User/Preferences.sublime-settings",
+		"/C/dev/sublime-3dev/Data/Packages/Seti_UI/+res/Ext/Sass.sublime-settings",
+		"/C/OpenServer/domains/gulpjs/app/sass/style.sass",
+		"/C/dev/sublime-3dev/Data/Packages/Seti_UI/Scheme/Seti.tmTheme",
+		"/C/OpenServer/domains/gulpjs/gulpfile-1.js",
+		"/C/dev/sublime-3dev/Data/Packages/Seti_UI/Langs/Sass.tmLanguage",
+		"/C/dev/sublime-3dev/Data/Packages/User/JSON.sublime-settings",
+		"/C/dev/sublime-3dev/Data/Packages/User/Sass.sublime-settings",
+		"/C/dev/sublime-3dev/Data/Packages/User/Distraction Free.sublime-settings",
+		"/C/dev/sublime-3dev/Data/Packages/User/ThemrFavorites.sublime-settings",
+		"/C/OpenServer/domains/landing/_src/libs/jqBootstrapValidation.js",
+		"/C/OpenServer/domains/landing/_src/libs/animate-css.js",
+		"/C/OpenServer/domains/landing/js/common.js",
+		"/C/OpenServer/domains/gulpjs/app/css/style.css",
+		"/c/users/stas/appdata/local/temp/gistfile1.txt",
+		"/c/users/stas/appdata/local/temp/list_frontend_snippets.txt",
+		"/C/dev/sublime-3dev/Data/Packages/User/ApplySyntax.sublime-settings",
+		"/C/dev/sublime-3dev/Data/Packages/ApplySyntax/ApplySyntax.sublime-settings",
+		"/C/OpenServer/domains/gulpjs/gulpfile.js",
+		"/C/OpenServer/domains/gulpjs/package.json",
+		"/C/dev/sublime-3dev/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/dev/sublime-3dev/Data/Packages/User/Gist.sublime-settings",
+		"/C/dev/sublime/sublime-3dev/Data/Packages/User/Preferences.sublime-settings",
+		"/C/dev/sublime/sublime-3dev/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/OpenServer/domains/gulpjs/app/style.css",
+		"/C/OpenServer/domains/gulpjs/app/style.sass",
+		"/C/OpenServer/domains/gulpjs/app/sublime-settings.html",
+		"/C/dev/sublime/sublime-3dev/Data/Packages/Goto-CSS-Declaration/Default (Windows).sublime-keymap",
+		"/C/dev/sublime/sublime-3dev/Data/Packages/User/LiveReload.sublime-settings",
+		"/C/dev/sublime/sublime-3dev/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/dev/sublime/sublime-3dev/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/OpenServer/domains/gulpjs/gulp.sublime-project",
+		"/C/OpenServer/domains/gulpjs/index.html",
+		"/C/OpenServer/domains/gulpjs/css/common.css",
+		"/C/OpenServer/domains/gulpjs/css/font.css",
+		"/C/OpenServer/domains/gulpjs/app/css/bundle.min.css",
+		"/C/OpenServer/domains/gulpjs/app/bundle.css",
+		"/C/OpenServer/domains/landing/css/sass/skins/tomato.sass",
+		"/C/OpenServer/domains/landing/css/sass/fonts.sass",
+		"/C/OpenServer/domains/landing/css/sass/main.sass",
+		"/C/OpenServer/domains/landing/index.html",
+		"/C/OpenServer/domains/landing/_src/_clean_html/index.html",
+		"/C/OpenServer/domains/landing/img/logo.svg",
+		"/C/dev/sublime/sublime-3dev/Data/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+		"/C/OpenServer/domains/landing/_src/_clean_html/css/sass/main.sass",
+		"/C/dev/sublime/sublime-3dev/Data/Packages/User/Tag Package.sublime-settings",
+		"/C/dev/sublime/sublime-3dev/Data/Packages/Tag/Tag Package.sublime-settings",
+		"/C/dev/sublime/sublime-3dev/Data/Packages/Diffy/Diffy.sublime-settings",
+		"/C/dev/sublime/sublime-3dev/Data/Packages/User/Diffy.sublime-settings",
+		"/C/OpenServer/domains/landing/css/main.css",
+		"/C/dev/sublime/sublime-3dev/Data/Packages/LiveReload/LiveReload.sublime-settings",
+		"/C/OpenServer/domains/landing/libs/bootstrap/bootstrap-grid.min.css",
+		"/C/OpenServer/domains/landing/livereload.js",
+		"/C/OpenServer/domains/landing/wordpress-landing-page-lesson-master/_clean_html/index.html",
+		"/C/OpenServer/domains/gulpjs/css/main.css",
+		"/C/OpenServer/domains/gulpjs/css/normalize.css",
+		"/C/OpenServer/domains/gulpjs/css/normalize.min.css",
+		"/C/OpenServer/domains/gulpjs/js/main.js",
+		"/C/OpenServer/domains/gulpjs/js/vendor/jquery-1.11.2.min.js",
+		"/C/OpenServer/domains/gulpjs/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js",
+		"/C/OpenServer/domains/gulpjs/.htaccess",
+		"/C/OpenServer/domains/gulpjs/404.html",
+		"/C/OpenServer/domains/tsvetkov.pro/wp-content/themes/MyTheme/package.json",
+		"/C/OpenServer/domains/tsvetkov.pro/wp-content/themes/MyTheme/gulpfile.js",
+		"/C/OpenServer/domains/tsvetkov.pro/wp-content/themes/MyTheme/app/mainall.css",
+		"/C/OpenServer/domains/tsvetkov.pro/wp-content/themes/MyTheme/app/bundle.css",
+		"/C/Users/stas/Downloads/wp_term_taxonomy.sql",
+		"/C/OpenServer/domains/tsvetkovpro/gulpfile.js",
+		"/C/Users/stas/Downloads/wp_posts.sql",
+		"/C/Users/stas/Downloads/wp_terms.sql",
+		"/C/Users/stas/Downloads/wp_term_relationships.sql",
+		"/C/Users/stas/Desktop/main.css",
+		"/C/Users/stas/Desktop/index.html",
+		"/C/OpenServer/domains/tsvetkovpro/package.json",
+		"/C/OpenServer/domains/localhost/wp/wp-content/themes/MyTheme/footer.php",
+		"/C/OpenServer/domains/localhost/wp/wp-content/themes/MyTheme/functions.php",
+		"/C/OpenServer/domains/localhost/wp/wp-content/themes/MyTheme/theme-options.php",
+		"/C/OpenServer/domains/localhost/wp/wp-content/themes/MyTheme/header.php",
+		"/C/OpenServer/domains/localhost/wp/wp-content/themes/MyTheme/css/main.css",
+		"/C/OpenServer/domains/localhost/wp/wp-content/themes/MyTheme/index.php",
+		"/C/dev/sublime/sublime-3dev/Data/Packages/User/Gist.sublime-settings",
+		"/C/dev/sublime/sublime-3dev/Data/Packages/Gist/Default (Windows).sublime-keymap",
+		"/C/dev/sublime/sublime-3dev/Data/Packages/Gist/Gist.sublime-settings",
+		"/C/Users/stas/Desktop/Makety_Korporativnykh_Vizitok_V_Vektore.svg",
+		"/C/OpenServer/domains/localhost/wp/wp-content/themes/MyTheme/function.php",
+		"/C/dev/portfolio/css/sass/fonts.sass",
+		"/C/dev/portfolio/css/sass/skins/tomato.sass",
+		"/C/dev/portfolio/js/common.js",
+		"/C/dev/portfolio/index.html",
+		"/C/dev/portfolio/1.html",
+		"/C/dev/sublime/sublime-3dev/Data/Packages/User/ZenTabs.sublime-settings",
+		"/C/dev/sublime/sublime-3dev/Data/Packages/Zen Tabs/ZenTabs.sublime-settings",
+		"/C/dev/portfolio/css/media.css",
+		"/C/dev/portfolio/css/sass/main.sass",
+		"/C/dev/wp-lessons/_clean_html/index.html",
+		"/C/dev/sublime/sublime-3dev/Data/Packages/User/Default.sublime-keymap",
+		"/C/dev/sublime/sublime-3dev/Data/Packages/SublimeLinter/Default (Windows).sublime-keymap",
+		"/C/dev/sublime/sublime-3dev/Data/Packages/Zen Tabs/Default.sublime-keymap",
+		"/C/dev/sublime/sublime-3dev/Data/Packages/Zen Tabs/TODO.todo",
+		"/C/dev/sublime/sublime-3dev/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/dev/sublime/sublime-3dev/Data/Packages/User/SublimeLinter.sublime-settings",
+		"/C/dev/portfolio/libs/bootstrap/bootstrap-grid.min.css",
+		"/C/dev/wp-lessons/_clean_html/css/sass/main.sass",
+		"/C/dev/wp-lessons/__clean_html_original/index.html",
+		"/C/dev/portfolio/css/fonts.css",
+		"/C/dev/portfolio/img/logo.svg",
+		"/C/dev/portfolio/css/skins/tomato.css",
+		"/C/dev/wp-lessons/_clean_html/js/common.js",
+		"/C/dev/sublime/test/index.html",
+		"/C/dev/sublime/test/style.css",
+		"/C/dev/wp-lessons/_clean_html/libs/bootstrap/bootstrap-grid.min.css"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sas",
+			"dolor",
+			"upda",
+			"ctrl+shift+r",
+			">\n",
+			"');\n",
+			"sandwich",
+			"	.loader_inner\n",
+			"portfolio_",
+			"portf",
+			"sample_theme_option",
+			"theme",
+			"container",
+			"f5",
+			"top_descr",
+			"sec",
+			"s_de",
+			"top_wrapper",
+			"0",
+			">"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 412,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								147,
+								147
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"apply_syntax_touched": true,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bs_sintax": "gulpfile js",
+							"buffer_scroll_name": "4731d9c2",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti_orig.tmTheme",
+							"spell_check": false,
+							"syntax": "Packages/Seti_UI/Langs/Gulpfile JS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/sass/style.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 220,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								87,
+								87
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"apply_syntax_touched": true,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bs_sintax": "sass",
+							"buffer_scroll_name": "ed53384b",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
+							"spell_check": false,
+							"syntax": "Packages/Seti_UI/Langs/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "gulp.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"comjs",
+				"js\\common.js"
+			],
+			[
+				"1.h",
+				"1.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
