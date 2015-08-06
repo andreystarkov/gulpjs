@@ -1,36 +1,23 @@
 var gulp  = require('gulp'),
 wiredep   = require('wiredep').stream,
+gulp      = require('gulp'),
 useref    = require('gulp-useref'),
 gulpif    = require('gulp-if'),
 uglify    = require('gulp-uglify'),
 minifyCss = require('gulp-minify-css'),
 clean     = require('gulp-clean'),
-gutil     = require( 'gulp-util' ),
-ftp       = require( 'vinyl-ftp' );
-
-
+sftp      = require('gulp-sftp');
 
 //sftp
-gulp.task( 'deploy', function() {
-    var conn = ftp.create( {
-        host:     '',
-        user:     '',
-        password: '',
-        parallel: 10,
-        log:      gutil.log
-    } );
-
-    var globs = [
-    'build/**',
-    'build/css/**',
-    'build/scripts/**',
-    'build/index.html'
-    ];
-
-    return gulp.src( globs, { base: '.', buffer: false } )
-        .pipe( conn.newer( '' ) ) // only upload newer files
-        .pipe( conn.dest( '' ) );
-} );
+gulp.task('sftp', function () {
+	return gulp.src('build/**/*')
+		.pipe(sftp({
+			host: '127.0.0.1',
+			user: 'user',
+			pass: 'password',
+			remotePath: '/home/1/www/'
+			}));
+	});
 
 
 //clean

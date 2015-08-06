@@ -1,0 +1,1 @@
+$(function(){console.log("in main.js connect!")}),$("p").click(function(){$(this).slideUp()}),$(function(){console.log("in plugin.js conncts!")});

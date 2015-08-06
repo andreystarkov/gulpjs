@@ -1,3 +1,3 @@
 $(function() {
-	console.log('in plugin.js!');
+	console.log('in plugin.js conncts!');
 });
