@@ -88,18 +88,10 @@
 	"buffers":
 	[
 		{
-			"file": "gulpfile.js",
+			"file": "app/index.html",
 			"settings":
 			{
-				"buffer_size": 412,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/sass/style.sass",
-			"settings":
-			{
-				"buffer_size": 220,
+				"buffer_size": 1975,
 				"line_ending": "Windows"
 			}
 		}
@@ -111,17 +103,21 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 355.0,
-		"last_filter": "pac",
+		"height": 400.0,
+		"last_filter": "settus",
 		"selected_items":
 		[
 			[
-				"pac",
-				"Package Control: Remove Package"
+				"settus",
+				"Preferences: Settings - User"
 			],
 			[
-				"syssass",
-				"Set Syntax: Sass"
+				"setsynjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
 			],
 			[
 				"gist",
@@ -208,6 +204,10 @@
 				"Package Control: Install Package"
 			],
 			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
 				"setssa",
 				"Set Syntax: Sass"
 			],
@@ -224,7 +224,7 @@
 				"Package Control: Advanced Install Package"
 			]
 		],
-		"width": 536.0
+		"width": 509.0
 	},
 	"console":
 	{
@@ -246,33 +246,43 @@
 	"expanded_folders":
 	[
 		"/C/OpenServer/domains/gulpjs",
-		"/C/OpenServer/domains/gulpjs/app",
-		"/C/OpenServer/domains/gulpjs/app/css",
-		"/C/OpenServer/domains/gulpjs/app/sass"
+		"/C/OpenServer/domains/gulpjs/app"
 	],
 	"file_history":
 	[
-		"/C/OpenServer/domains/gulpjs/app/index.html",
 		"/C/dev/sublime-3dev/Data/Packages/User/Preferences.sublime-settings",
-		"/C/dev/sublime-3dev/Data/Packages/Seti_UI/+res/Ext/Sass.sublime-settings",
-		"/C/OpenServer/domains/gulpjs/app/sass/style.sass",
-		"/C/dev/sublime-3dev/Data/Packages/Seti_UI/Scheme/Seti.tmTheme",
+		"/C/OpenServer/domains/gulpjs/.bowerrc",
+		"/C/OpenServer/domains/gulpjs/app/js/plugin.js",
+		"/C/OpenServer/domains/gulpjs/app/js/main.js",
+		"/C/OpenServer/domains/gulpjs/app/sass/button.sass",
+		"/C/OpenServer/domains/gulpjs/app/sass/main.sass",
+		"/C/OpenServer/domains/gulpjs/app/css/button.css",
+		"/C/OpenServer/domains/gulpjs/app/css/main.css",
+		"/C/OpenServer/domains/gulpjs/gulpfile.js",
+		"/C/OpenServer/domains/gulpjs/app/index.html",
+		"/C/OpenServer/domains/gulpjs/gulpfile-build.js",
+		"/C/OpenServer/domains/gulpjs/build/css/main.css",
+		"/C/OpenServer/domains/gulpjs/build/css/vendor.css",
+		"/C/OpenServer/domains/gulpjs/build/scripts/vendor.js",
+		"/C/OpenServer/domains/gulpjs/build/index.html",
+		"/C/OpenServer/domains/gulpjs/bower.json",
+		"/C/OpenServer/domains/gulpjs/README.md",
+		"/C/OpenServer/domains/gulpjs/gulpfile-dev.js",
+		"/C/OpenServer/domains/gulpjs/gulpfile/gulpfile-build.js",
+		"/C/OpenServer/domains/gulpjs/node_modules/vinyl-ftp/node_modules/ftp/lib/connection.js",
+		"/C/OpenServer/domains/gulpjs/app/components/jquery/jquery.js",
+		"/C/OpenServer/domains/gulpjs/build/scripts/main.js",
+		"/C/OpenServer/domains/gulpjs/readme.md",
 		"/C/OpenServer/domains/gulpjs/gulpfile-1.js",
-		"/C/dev/sublime-3dev/Data/Packages/Seti_UI/Langs/Sass.tmLanguage",
-		"/C/dev/sublime-3dev/Data/Packages/User/JSON.sublime-settings",
-		"/C/dev/sublime-3dev/Data/Packages/User/Sass.sublime-settings",
-		"/C/dev/sublime-3dev/Data/Packages/User/Distraction Free.sublime-settings",
-		"/C/dev/sublime-3dev/Data/Packages/User/ThemrFavorites.sublime-settings",
-		"/C/OpenServer/domains/landing/_src/libs/jqBootstrapValidation.js",
-		"/C/OpenServer/domains/landing/_src/libs/animate-css.js",
-		"/C/OpenServer/domains/landing/js/common.js",
+		"/C/OpenServer/domains/gulpjs/gulpfile-wiredep.js",
+		"/C/OpenServer/domains/gulpjs/package.json",
+		"/C/OpenServer/domains/gulpjs/gulpfile-cache.js",
 		"/C/OpenServer/domains/gulpjs/app/css/style.css",
+		"/C/OpenServer/domains/gulpjs/app/sass/style.sass",
 		"/c/users/stas/appdata/local/temp/gistfile1.txt",
 		"/c/users/stas/appdata/local/temp/list_frontend_snippets.txt",
 		"/C/dev/sublime-3dev/Data/Packages/User/ApplySyntax.sublime-settings",
 		"/C/dev/sublime-3dev/Data/Packages/ApplySyntax/ApplySyntax.sublime-settings",
-		"/C/OpenServer/domains/gulpjs/gulpfile.js",
-		"/C/OpenServer/domains/gulpjs/package.json",
 		"/C/dev/sublime-3dev/Data/Packages/User/Default (Windows).sublime-keymap",
 		"/C/dev/sublime-3dev/Data/Packages/User/Gist.sublime-settings",
 		"/C/dev/sublime/sublime-3dev/Data/Packages/User/Preferences.sublime-settings",
@@ -293,6 +303,7 @@
 		"/C/OpenServer/domains/landing/css/sass/skins/tomato.sass",
 		"/C/OpenServer/domains/landing/css/sass/fonts.sass",
 		"/C/OpenServer/domains/landing/css/sass/main.sass",
+		"/C/OpenServer/domains/landing/js/common.js",
 		"/C/OpenServer/domains/landing/index.html",
 		"/C/OpenServer/domains/landing/_src/_clean_html/index.html",
 		"/C/OpenServer/domains/landing/img/logo.svg",
@@ -381,7 +392,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"sas",
+			"this.prevObject",
+			"(e,t)",
+			"function(e,t)",
+			"!function",
 			"dolor",
 			"upda",
 			"ctrl+shift+r",
@@ -418,24 +432,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "gulpfile.js",
+					"file": "app/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 412,
+						"buffer_size": 1975,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								147,
-								147
+								362,
+								362
 							]
 						],
 						"settings":
@@ -444,41 +458,31 @@
 							"apply_syntax_touched": true,
 							"bh_regions":
 							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
@@ -489,114 +493,33 @@
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
-								"bh_tag_content"
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
 							],
-							"bs_sintax": "gulpfile js",
-							"buffer_scroll_name": "4731d9c2",
+							"bs_sintax": "html",
+							"buffer_scroll_name": "9c751c51",
 							"color_scheme": "Packages/User/Color Highlighter/themes/Seti_orig.tmTheme",
+							"is_xml": false,
 							"spell_check": false,
-							"syntax": "Packages/Seti_UI/Langs/Gulpfile JS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "app/sass/style.sass",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 220,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								87,
-								87
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"apply_syntax_touched": true,
-							"bh_regions":
-							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"bs_sintax": "sass",
-							"buffer_scroll_name": "ed53384b",
-							"color_scheme": "Packages/User/Color Highlighter/themes/Seti.tmTheme",
-							"spell_check": false,
-							"syntax": "Packages/Seti_UI/Langs/Sass.tmLanguage",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
@@ -606,6 +529,11 @@
 					"stack_index": 0,
 					"type": "text"
 				}
+			]
+		},
+		{
+			"sheets":
+			[
 			]
 		}
 	],
@@ -626,11 +554,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.604679802956,
 			1.0
 		],
 		"rows":
@@ -694,8 +629,8 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 220.0,
-	"status_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": false,
 	"template_settings":
 	{
 	}
