@@ -22,5 +22,17 @@ gulp gulp-autoprefixer gulp-livereload gulp-connect gulp-sass wiredep gulp-usere
 bower install --save jquery#1.8 normalize.css
 ```
 
+####3.To run gulp development:
+
+```
+gulp
+```
+
+####4.To run gulp build:
+
+```
+gulp build
+```
+
 
 
