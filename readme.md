@@ -1,5 +1,6 @@
 ## gulp webdev workflow
 
+####[resources](ch1.md)
 
 ### Build system
 - [Gulp](http://gulpjs.com/) - Build system
