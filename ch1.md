@@ -1,8 +1,8 @@
 - [Build Podcast: Gulp](http://build-podcast.com/gulp/) 
-- [Articles](https://github.com/gulpjs/gulp/blob/master/docs/README.md#articles-and-recipes) - 
-- [Gulp Cheatsheet](https://github.com/gulpjs/gulp/blob/master/docs/README.md#articles-and-recipes) - 
-- [An Intro into Gulp.js](http://www.sitepoint.com/introduction-gulp-js/) - 
-- [Managing Your Build Tasks with Gulp.js](http://code.tutsplus.com/tutorials/managing-your-build-tasks-with-gulpjs--net-36910) - 
+- [Articles](https://github.com/gulpjs/gulp/blob/master/docs/README.md#articles-and-recipes) - gulp documentation
+- [Gulp Cheatsheet](https://github.com/gulpjs/gulp/blob/master/docs/README.md#articles-and-recipes)
+- [An Intro into Gulp.js](http://www.sitepoint.com/introduction-gulp-js/)
+- [Managing Your Build Tasks with Gulp.js](http://code.tutsplus.com/tutorials/managing-your-build-tasks-with-gulpjs--net-36910)
 - [Getting Started with Gulp](http://markgoodyear.com/2014/01/getting-started-with-gulp/) - 
-- [Setting up Gulp with LiveReload, Sass and other Tasks](http://help.nitrous.io/setting-up-gulp-with-livereload-and-sass/) - 
-- [Advanced Gulp File](http://www.mikestreety.co.uk/blog/an-advanced-gulpjs-file) - 
+- [Setting up Gulp with LiveReload, Sass and other Tasks](http://help.nitrous.io/setting-up-gulp-with-livereload-and-sass/)
+- [Advanced Gulp File](http://www.mikestreety.co.uk/blog/an-advanced-gulpjs-file)
