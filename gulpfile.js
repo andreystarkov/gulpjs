@@ -14,11 +14,36 @@ var gulp     = require('gulp'),
     gutil      = require( 'gulp-util' ),
     ftp        = require( 'vinyl-ftp' );
 
+var basePaths = {
+    src: 'app/',
+    dest: 'build/'
+};
+var paths = {
+    images: {
+        src: basePaths.src + 'img/',
+        dest: basePaths.dest + 'img/'
+    },
+    scripts: {
+        src: basePaths.src + 'js/',
+        dest: basePaths.dest + 'js/'
+    },
+    styles: {
+        src: basePaths.src + 'sass/',
+        dest: basePaths.dest + 'css/'
+    }
+};
+var appFiles = {
+    styles: paths.styles.src + '**/*.sass',
+    scripts: [paths.scripts.src + 'scripts.js']
+};
+
+
+
 
 //server connect
 gulp.task('connect', function() {
 	connect.server({
-		root: 'app',
+		root: basePaths.src,
 		livereload: true
 	});
 });
@@ -26,28 +51,28 @@ gulp.task('connect', function() {
 
 //sass
 gulp.task('sass', function () {
-	gulp.src('app/sass/*.sass')
+	gulp.src(paths.styles.src + '*.sass')
 		.pipe(sass())
-		.pipe(prefix('last 3 versions'))
-		.pipe(gulp.dest('app/css/'))
+		.pipe(prefix('last 3 version', 'safari 5', 'ie 8', 'ie 9', 'opera 12.1', 'ios 6', 'android 4'))
+		.pipe(gulp.dest(basePaths.src + 'css/'))
 		.pipe(connect.reload());
 });
 
 
 // html
 gulp.task('html', function () {
-	gulp.src('app/index.html')
+	gulp.src(basePaths.src + 'index.html')
 	.pipe(connect.reload());
 	})
 
 
 //bower
 gulp.task('bower', function () {
-  gulp.src('app/index.html')
+  gulp.src(basePaths.src + 'index.html')
     .pipe(wiredep({
       directory : "app/components/"
     }))
-    .pipe(gulp.dest('app/'));
+    .pipe(gulp.dest(basePaths.src));
 });
 
 //clean

@@ -1,1 +1,46 @@
-.btn{color:green;-webkit-filter:grayscale(11%);filter:grayscale(11%)}body{font-family:Raleway,sans-serif;background:-webkit-linear-gradient(45deg,#fff,#00f);background:linear-gradient(45deg,#fff,#00f)}.p1,.p2{background-color:#000}.p1{color:#ff0;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex}.p2{color:#fff}.p3,.p4{color:#000}.p3{background-color:#fff}.p4{background-color:#000}.p5{color:#5E15ED;background-color:#fff}.p6{color:#000;background-color:#000}.p7{color:silver}.p8{color:green}
+body {
+  font-family: "Raleway", sans-serif;
+  background: -webkit-linear-gradient(0deg, white, blue);
+  background: linear-gradient(90deg, white, blue); }
+
+.p1 {
+  color: yellow;
+  background-color: #000;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-filter: grayscale(50%);
+          filter: grayscale(50%);
+  -webkit-transform: rotate(30deg);
+      -ms-transform: rotate(30deg);
+          transform: rotate(30deg); }
+
+.p2 {
+  color: white;
+  background-color: #000;
+  -webkit-transform: rotate(60deg);
+      -ms-transform: rotate(60deg);
+          transform: rotate(60deg); }
+
+.p3 {
+  color: black;
+  background-color: #fff; }
+
+.p4 {
+  color: black;
+  background-color: #000; }
+
+.p5 {
+  color: #5E15ED;
+  background-color: #fff; }
+
+.p6 {
+  color: black;
+  background-color: #000; }
+
+.p7 {
+  color: silver; }
+
+.p8 {
+  color: green; }

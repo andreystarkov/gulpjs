@@ -9,11 +9,19 @@ body {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
-  display: flex; }
+  display: flex;
+  -webkit-filter: grayscale(50%);
+          filter: grayscale(50%);
+  -webkit-transform: rotate(30deg);
+      -ms-transform: rotate(30deg);
+          transform: rotate(30deg); }
 
 .p2 {
   color: white;
-  background-color: #000; }
+  background-color: #000;
+  -webkit-transform: rotate(60deg);
+      -ms-transform: rotate(60deg);
+          transform: rotate(60deg); }
 
 .p3 {
   color: black;
